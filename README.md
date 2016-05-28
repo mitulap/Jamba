@@ -12,4 +12,4 @@ Technologies used : openmp, Python ctypes, boost and cpp
 | 10000 Requests                | 11,298.4 (1.129) | 5712.5 (0.571) | 3050.8 (0.305) | 1516.4 (0.151) | 1626.42 (0.162)  | 1749.4 (0.174) | 1722.53 (0.1722) |
 | 100000 Requests  				| 111,777 (1.11)   | 56,783 (0.567) | 30,813 (0.308) | 15007 (0.150)  | 17,999.2 (0.179) | 18,575 (0.185) | 18,202.58 (0.182) |
 
-Here 114(1.14) = "total time taken to execute all request in milliseconds" (time per request in milliseconds)
+Here 114(1.14) = "total time taken to execute all requests in milliseconds" (time per request in milliseconds)
