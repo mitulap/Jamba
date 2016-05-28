@@ -1,9 +1,11 @@
 # Jamba
 This is a Jmaba project for parallel computing.
 
-Technologies used : openmp, Python ctypes, boost and cpp
+Technologies used : openmp, Python ctypes, boost and cpp.
  
- This project is very simple when it comes to implementation but the processing it does is really super fast and resulets are impressive.
+This project is very simple when it comes to implementation but the processing it does is really super fast and resulets are impressive.
+
+This application was tested on ubuntu 14.04 with intern i5, 4 cores machine. Resulets are very interesting here.
 
 | Number Of Threads / Requests  | 1 Thread         | 2 Threads      | 4 Threads      | 8 Threads      | 16 Threads       | 32 Threads     | 64 Threads |
 | :---------------------------: |:----------------:| :-------------:| :-------------:| :-------------:| :---------------:| :-------------:| :----------:|
